@@ -14,7 +14,7 @@
 <html>
 
 <head>
-    <title>Arabian Oryx</title>
+    <title>Auto Car</title>
 
     <link href="css/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
